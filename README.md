@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinícios(V)👋
 <main>
   <div>
-    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+    <img alt="Night Coding" src="https://mblogthumb-phinf.pstatic.net/MjAxOTA3MTNfMzUg/MDAxNTYzMDE4MzU4MTQ5.A-h0mASDGPG10KXQzC_6h8CMnTmYPJHcAYmRntqSwewg.aMufiYpT6iSMK5h8dinujsRqiiX06t6GUusc8w3N64Ag.GIF.dkdyvkzm/1742.gif?type=w2"  align="right"/>
   </div>
 
   <span>
