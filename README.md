@@ -41,6 +41,8 @@ alt="React logo" title="React.js / React Native" height="25" />
 # 📚 Pretendo aprender:
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=FFD43B"
 alt="Python logo" title="Python" height="25" />
+<img src="https://img.shields.io/badge/Elixir-282C34?logo=elixir&logoColor=8968CD"
+alt="Elixir logo" title="Elixir" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
 <br />
