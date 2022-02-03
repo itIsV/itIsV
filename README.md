@@ -22,11 +22,13 @@
 alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="MySQL logo" title="MySQL" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" />
 <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
 <img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=#00989d" alt="Heroku logo" title="Heroku" height="25" />
+<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=FFD43B"
+alt="Python logo" title="Python" height="25" />
 <br />
 <br />
   
@@ -39,8 +41,6 @@ alt="React logo" title="React.js / React Native" height="25" />
 <br />
 
 # 📚 Pretendo aprender:
-<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=FFD43B"
-alt="Python logo" title="Python" height="25" />
 <img src="https://img.shields.io/badge/Elixir-282C34?logo=elixir&logoColor=8968CD"
 alt="Elixir logo" title="Elixir" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
